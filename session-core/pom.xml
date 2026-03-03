@@ -13,6 +13,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>org.dynamissession</groupId>
+            <artifactId>session-api</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
             <groupId>org.dynamis</groupId>
             <artifactId>dynamis-core</artifactId>
         </dependency>
@@ -23,6 +28,11 @@
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.dynamisecs</groupId>
+            <artifactId>ecs-core</artifactId>
             <scope>test</scope>
         </dependency>
     </dependencies>
