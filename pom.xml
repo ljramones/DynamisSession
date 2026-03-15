@@ -29,17 +29,17 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>org.dynamis</groupId>
+                <groupId>org.dynamisengine</groupId>
                 <artifactId>dynamis-core</artifactId>
                 <version>${dynamis.version}</version>
             </dependency>
             <dependency>
-                <groupId>org.dynamisecs</groupId>
+                <groupId>org.dynamisengine.ecs</groupId>
                 <artifactId>ecs-api</artifactId>
                 <version>${dynamisecs.version}</version>
             </dependency>
             <dependency>
-                <groupId>org.dynamisecs</groupId>
+                <groupId>org.dynamisengine.ecs</groupId>
                 <artifactId>ecs-core</artifactId>
                 <version>${dynamisecs.version}</version>
             </dependency>

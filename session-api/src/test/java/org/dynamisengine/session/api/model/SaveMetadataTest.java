@@ -1,6 +1,6 @@
 package org.dynamisengine.session.api.model;
 
-import org.dynamis.core.exception.DynamisException;
+import org.dynamisengine.core.exception.DynamisException;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;

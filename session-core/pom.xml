@@ -18,11 +18,11 @@
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.dynamis</groupId>
+            <groupId>org.dynamisengine</groupId>
             <artifactId>dynamis-core</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.dynamisecs</groupId>
+            <groupId>org.dynamisengine.ecs</groupId>
             <artifactId>ecs-api</artifactId>
         </dependency>
         <dependency>
@@ -31,7 +31,7 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>org.dynamisecs</groupId>
+            <groupId>org.dynamisengine.ecs</groupId>
             <artifactId>ecs-core</artifactId>
             <scope>test</scope>
         </dependency>

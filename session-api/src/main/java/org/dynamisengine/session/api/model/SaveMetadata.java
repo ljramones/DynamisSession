@@ -1,6 +1,6 @@
 package org.dynamisengine.session.api.model;
 
-import org.dynamis.core.exception.DynamisException;
+import org.dynamisengine.core.exception.DynamisException;
 
 import java.util.Objects;
 

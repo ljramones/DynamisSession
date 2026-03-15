@@ -1,7 +1,7 @@
 package org.dynamisengine.session.runtime;
 
-import org.dynamisecs.api.world.World;
-import org.dynamisecs.core.DefaultWorld;
+import org.dynamisengine.ecs.api.world.World;
+import org.dynamisengine.ecs.core.DefaultWorld;
 import org.dynamisengine.session.api.SessionManager;
 import org.dynamisengine.session.api.codec.CodecRegistry;
 import org.dynamisengine.session.api.model.SaveGame;

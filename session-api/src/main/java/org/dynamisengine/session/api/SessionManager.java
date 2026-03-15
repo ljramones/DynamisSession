@@ -1,6 +1,6 @@
 package org.dynamisengine.session.api;
 
-import org.dynamisecs.api.world.World;
+import org.dynamisengine.ecs.api.world.World;
 import org.dynamisengine.session.api.codec.CodecRegistry;
 import org.dynamisengine.session.api.model.SaveGame;
 

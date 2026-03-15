@@ -1,6 +1,6 @@
 package org.dynamisengine.session.core.io;
 
-import org.dynamis.core.entity.EntityId;
+import org.dynamisengine.core.entity.EntityId;
 import org.dynamisengine.session.api.model.ComponentEntry;
 import org.dynamisengine.session.api.model.EcsSnapshot;
 import org.dynamisengine.session.api.model.EntityRecord;

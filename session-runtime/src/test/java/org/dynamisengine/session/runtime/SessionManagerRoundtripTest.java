@@ -1,9 +1,9 @@
 package org.dynamisengine.session.runtime;
 
-import org.dynamis.core.entity.EntityId;
-import org.dynamisecs.api.component.ComponentKey;
-import org.dynamisecs.api.world.World;
-import org.dynamisecs.core.DefaultWorld;
+import org.dynamisengine.core.entity.EntityId;
+import org.dynamisengine.ecs.api.component.ComponentKey;
+import org.dynamisengine.ecs.api.world.World;
+import org.dynamisengine.ecs.core.DefaultWorld;
 import org.dynamisengine.session.api.codec.ComponentCodec;
 import org.dynamisengine.session.api.model.EcsSnapshot;
 import org.dynamisengine.session.api.model.SaveGame;

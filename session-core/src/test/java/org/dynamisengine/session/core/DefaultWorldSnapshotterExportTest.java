@@ -1,8 +1,8 @@
 package org.dynamisengine.session.core;
 
-import org.dynamis.core.entity.EntityId;
-import org.dynamisecs.api.component.ComponentKey;
-import org.dynamisecs.core.DefaultWorld;
+import org.dynamisengine.core.entity.EntityId;
+import org.dynamisengine.ecs.api.component.ComponentKey;
+import org.dynamisengine.ecs.core.DefaultWorld;
 import org.dynamisengine.session.api.codec.ComponentCodec;
 import org.dynamisengine.session.api.model.ComponentEntry;
 import org.dynamisengine.session.api.model.EcsSnapshot;
