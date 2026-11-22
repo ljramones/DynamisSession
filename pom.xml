@@ -18,9 +18,9 @@
         <maven.compiler.release>25</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.12.0</junit.version>
-        <dynamis.version>1.0.0-SNAPSHOT</dynamis.version>
+        <dynamis.version>1.0.0</dynamis.version>
         <dynamisecs.version>1.0.0-SNAPSHOT</dynamisecs.version>
-        <maven.compiler.plugin.version>3.14.0</maven.compiler.plugin.version>
+        <maven.compiler.plugin.version>3.14.1</maven.compiler.plugin.version>
         <maven.surefire.plugin.version>3.5.2</maven.surefire.plugin.version>
         <maven.checkstyle.plugin.version>3.6.0</maven.checkstyle.plugin.version>
         <spotbugs.maven.plugin.version>4.9.1.0</spotbugs.maven.plugin.version>
